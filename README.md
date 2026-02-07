@@ -64,6 +64,13 @@ ${
 </p>
 
 
+<p align="left">
+  <a href="https://prettycannibal.atabook.org/">, 𝙰𝚃𝙰 𝙱𝙾𝙾𝙺 !</a>
+</p>
+
+<p align="right">
+  <a href="https://melancolie.straw.page/">, 𝚂𝚃𝚁𝙰𝚆𝙿𝙰𝙶𝙴 !</a>
+</p>
 
 
 
