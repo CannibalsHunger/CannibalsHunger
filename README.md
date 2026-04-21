@@ -100,5 +100,4 @@ ${
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=6600&pause=600&center=true&width=750&lines=Oh+darling+you+fool..;how..+I+would.....+KILL..+for+you..&color=6b4a3a" />
 </p>
 
-
-<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909367349153842/Untitled18_20260417235434.png?ex=69e64c97&amp;is=69e4fb17&amp;hm=c201c1c77800718164952b3e3795f99e933745260127c441f33c1549340d5165&amp;" alt="Image"/>
+<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494886277642850334/Untitled15_20260417222347.png?ex=69e8da16&amp;is=69e78896&amp;hm=02c8ca21b9f2cb85027c01e7cef017050a70ab7526384da80090c322e8eb8f98&amp;" alt="Image"/>
