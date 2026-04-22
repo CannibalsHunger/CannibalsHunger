@@ -1,5 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494886276996923512/Untitled15_20260417221858.png?ex=69e78896&amp;is=69e63716&amp;hm=74160060c8a6f728e77ae71dc89a5471f2da0ecc00a3c272fe5938acded10752&amp;" alt="Image"/>
-
+<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909368011849880/Untitled18_20260417235255.png?ex=69ea4117&amp;is=69e8ef97&amp;hm=fd42c30d477446e985878dee355e709cf43d3a633a138670564b583e6c2088e2&amp;" alt="Image"/>
 
 
 <p align="center">
@@ -100,4 +99,4 @@ ${
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=6600&pause=600&center=true&width=750&lines=Oh+darling+you+fool..;how..+I+would.....+KILL..+for+you..&color=6b4a3a" />
 </p>
 
-<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494886277642850334/Untitled15_20260417222347.png?ex=69e8da16&amp;is=69e78896&amp;hm=02c8ca21b9f2cb85027c01e7cef017050a70ab7526384da80090c322e8eb8f98&amp;" alt="Image"/>
+<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909367349153842/Untitled18_20260417235434.png?ex=69ea4117&amp;is=69e8ef97&amp;hm=f0bae756101d91b66550124a982d92137cd3dd7a97b82855bdcb5745436e34c1&amp;" alt="Image"/>
