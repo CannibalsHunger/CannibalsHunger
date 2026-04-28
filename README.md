@@ -1,5 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909368011849880/Untitled18_20260417235255.png?ex=69ef8717&amp;is=69ee3597&amp;hm=c5fe2bcbf57a45f459df0845f83ed231eade5524cbe0038ab41a8493ca708edf&amp;" alt="Image"/>
-
+<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909368011849880/Untitled18_20260417235255.png?ex=69f0d897&amp;is=69ef8717&amp;hm=565dec2b9e616bad80579b7a76f51c8ca9aa929e676c0678ca4d764d4afaf0be&amp;" alt="Image"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&duration=7000&pause=450&color=e2cbb7&center=true&width=790&lines=Step+a+little+closer,+won%27t+you%3F;The+music+sounds+much+sweeter+when+you%27re+right+on+cue." />
