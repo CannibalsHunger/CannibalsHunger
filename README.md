@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909368011849880/Untitled18_20260417235255.png?ex=69f22a17&amp;is=69f0d897&amp;hm=39819a97c196abee998ef59f892ff19a96d20179e90f68044a1e6f066e639384&amp;"/>
+<img width="2000" height="1922" alt="image" src="https://github.com/user-attachments/assets/b9420dba-d077-4a6e-9a4b-7fb9ef46025e" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&duration=7000&pause=450&color=e2cbb7&center=true&width=790&lines=Step+a+little+closer,+won%27t+you%3F;The+music+sounds+much+sweeter+when+you%27re+right+on+cue." />
@@ -94,8 +94,15 @@ ${
 </p>
 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=6600&pause=600&center=true&width=750&lines=Oh+darling+you+fool..;how..+I+would.....+KILL..+for+you..&color=6b4a3a" />
-</p>
+  </p>
+  
+  <img width="2000" height="1178" alt="image" src="https://github.com/user-attachments/assets/124ce093-bf82-4879-99eb-34edb7d5c3e5" />
 
-<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909367349153842/Untitled18_20260417235434.png?ex=69f22a17&amp;is=69f0d897&amp;hm=c3f769db31731bd9ad6c306984ad46898419ff45f38e02fe1a27710c99be18bf&amp;"/>
+
+
+
+
+
