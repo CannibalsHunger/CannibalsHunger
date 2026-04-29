@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909368011849880/Untitled18_20260417235255.png?ex=69f0d897&amp;is=69ef8717&amp;hm=565dec2b9e616bad80579b7a76f51c8ca9aa929e676c0678ca4d764d4afaf0be&amp;" alt="Image"/>
+<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909368011849880/Untitled18_20260417235255.png?ex=69f22a17&amp;is=69f0d897&amp;hm=39819a97c196abee998ef59f892ff19a96d20179e90f68044a1e6f066e639384&amp;"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&duration=7000&pause=450&color=e2cbb7&center=true&width=790&lines=Step+a+little+closer,+won%27t+you%3F;The+music+sounds+much+sweeter+when+you%27re+right+on+cue." />
@@ -98,5 +98,4 @@ ${
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=6600&pause=600&center=true&width=750&lines=Oh+darling+you+fool..;how..+I+would.....+KILL..+for+you..&color=6b4a3a" />
 </p>
 
-
-<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909367349153842/Untitled18_20260417235434.png?ex=69ef8717&amp;is=69ee3597&amp;hm=78bb7ac99dcdf744f540748a8d404dc486955f5c001376ee6d9f7774eed28d44&amp;" alt="Image"/>
+<img src="https://cdn.discordapp.com/attachments/1445586107537555459/1494909367349153842/Untitled18_20260417235434.png?ex=69f22a17&amp;is=69f0d897&amp;hm=c3f769db31731bd9ad6c306984ad46898419ff45f38e02fe1a27710c99be18bf&amp;"/>
